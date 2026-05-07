@@ -1,8 +1,8 @@
 # Hi there, I'm Aditi 👋
 
--🎓 B.Tech CSE '27
--💼 Upcoming SEP Intern @JPMC | Ex-Intern @TATA Cummins
--🏆 JPMC Code for Good '25 Finalist | SIH '24 & '25 Internal Winner
+*🎓 B.Tech CSE '27
+*💼 Upcoming SEP Intern @JPMC | Ex-Intern @TATA Cummins
+*🏆 JPMC Code for Good '25 Finalist | SIH '24 & '25 Internal Winner
 
 ## 🚀 About Me
 
