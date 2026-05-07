@@ -1,74 +1,24 @@
 # Hi there, I'm Aditi 👋
 
-### Upcoming SEP Intern @JPMC | JPMC Code for Good '25 Finalist | Ex-Intern @TATA Cummins
-
-🎓 B.Tech CSE '27 student passionate about Full Stack Development, Backend Engineering, and Open Source.
-
----
+🎓 B.Tech CSE '27
+💼 Upcoming SEP Intern @JPMC | Ex-Intern @TATA Cummins
+🏆 JPMC Code for Good '25 Finalist | SIH '24 & '25 Internal Winner
 
 ## 🚀 About Me
 
-* 💻 Interested in MERN Stack & Backend Development
-* 🌱 Currently learning and building with Node.js, Express.js & MongoDB
-* 🧠 Practicing Data Structures & Algorithms
-* 🎨 Interested in UI/UX and Developer Experience
-* 🌐 Exploring Open Source through GSSOC & GitHub contributions
-
----
+* 🌱 Learning Full Stack & Backend Development
+* 💻 Working with MERN, .NET & Oracle
+* 🧠 Practicing DSA & problem solving
+* 🌐 Exploring Open Source & GSSOC
 
 ## 🛠️ Tech Stack
 
-### Languages
+C++ • JavaScript • Node.js • Express.js • React • MongoDB • .NET • Oracle SQL
 
-* C++
-* JavaScript
-* VB.NET
-* SQL
+## 🌐 Connect
 
-### Web Development
+LinkedIn: [www.linkedin.com/in/aditi-55aa09256](http://www.linkedin.com/in/aditi-55aa09256)
 
-* HTML
-* CSS
-* Node.js
-* Express.js
-* React.js
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Oracle 19c
-* Postman
-* Figma
-
----
-
-## 🏆 Achievements
-
-* 🌟 Upcoming SEP Intern @JPMC
-* 🏁 JPMC Code for Good '25 Finalist
-* 💼 Ex-Intern @TATA Cummins
-* 🥇 SIH '24 & '25 Internal Winner
-
----
-
-## 📌 Current Goals
-
-* Contribute to Open Source
-* Build scalable full-stack applications
-* Improve backend and system design skills
-* Strengthen DSA and problem-solving
-
----
-
-## 🌐 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/aditi2211/
-* GitHub: https://github.com/aditi3089
-
-⭐ Always learning, building, and growing through code.
 
 <!---
 aditi3089/aditi3089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
